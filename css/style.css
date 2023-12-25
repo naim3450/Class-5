@@ -1,0 +1,118 @@
+/* All Common Css File Start */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* All Common Css File end */
+
+.a{
+    height: 400px;
+    width:  400px;
+    background: black;
+    margin: 0 auto ;
+    position: relative;
+}
+.b{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    top: : 0;
+    right: 0;
+    
+}
+.c{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.d{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.e{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.f{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.g{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    top: 0;
+    left: 50%; 
+    transform: translateX(-50%);
+}
+.h{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
+.i{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+.j{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.k{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: relative;
+}
+.l{
+    height: 25px;
+    width: 25px;
+    background: rgb(0, 0, 0);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+
+
+ 
